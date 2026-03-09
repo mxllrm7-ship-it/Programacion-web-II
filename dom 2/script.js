@@ -8,8 +8,11 @@ console.log(btn)
 const createTask = (evento) =>{
     evento.preventDefault();
     const input = document.querySelector(`[data-form-input]`);
-    const value = input.value; //recupera el valor del input
-    const list = document.querySelector(`[data-list]`);
+    const value = input.value;
+    if(value===""){
+        alert("Tienes que ingresar el nombre de una tarea")
+    }else{
+        const list = document.querySelector(`[data-list]`);
     const task = document.createElement(`li`);
     task.classList.add(`card`);
     input.value=``;
@@ -19,12 +22,13 @@ const createTask = (evento) =>{
     titleTask.classList.add(`task`);
     titleTask.innerText = value;
 
-    conTask.appendChild(checkComplete()); ///agrego el check al div
+    conTask.appendChild(checkComplete()); 
     conTask.appendChild(titleTask);
 
     task.appendChild(conTask);
     task.appendChild(deleteIcon());
     list.appendChild(task);
+    }
 }
 
 btn.addEventListener(`click`, createTask);
