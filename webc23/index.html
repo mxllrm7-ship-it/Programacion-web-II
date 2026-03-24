@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Posts</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+<form id="form">
+<input type="text" id="titulo" placeholder="Título" required>
+<textarea id="descripcion" placeholder="Descripción" required></textarea>
+<button type="submit">Guardar</button>
+</form>
+
+<div class="getContainer" id="container"></div>
+
+<div class="modal" id="modal">
+<div class="modal-content">
+<h2>Editar Post</h2>
+<input type="text" id="editTitulo">
+<textarea id="editDescripcion"></textarea>
+<div class="modal-buttons">
+<button id="updateBtn">Actualizar</button>
+<button id="closeBtn">Cancelar</button>
+</div>
+</div>
+</div>
+
+<script src="./get.js"></script>
+<script src="./post.js"></script>
+</body>
+</html>
