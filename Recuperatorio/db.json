@@ -1,0 +1,677 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "Opciones": [
+        {
+          "A": "Madrid",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "París",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Roma",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Berlín",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "UrQVYvAkYLk"
+    },
+    {
+      "pregunta": "¿Quién pintó la Mona Lisa?",
+      "Opciones": [
+        {
+          "A": "Van Gogh",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Picasso",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "Leonardo da Vinci",
+          "Iscorrect": "True"
+        },
+        {
+          "D": "Miguel Ángel",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "Rqc98UODdLQ"
+    },
+    {
+      "pregunta": "¿Cuál es el planeta más grande?",
+      "Opciones": [
+        {
+          "A": "Marte",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Júpiter",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Venus",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Saturno",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "c9zNriGnmFQ"
+    },
+    {
+      "pregunta": "¿Cuántos continentes hay?",
+      "Opciones": [
+        {
+          "A": "5",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "6",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "7",
+          "Iscorrect": "True"
+        },
+        {
+          "D": "8",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "_Zt4kimM_uA"
+    },
+    {
+      "pregunta": "¿Quién escribió Don Quijote?",
+      "Opciones": [
+        {
+          "A": "García Márquez",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Miguel de Cervantes",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Shakespeare",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Pablo Neruda",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "gr-X3nmdwk4"
+    },
+    {
+      "pregunta": "¿Cuál es el océano más grande?",
+      "Opciones": [
+        {
+          "A": "Atlántico",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Índico",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "Pacífico",
+          "Iscorrect": "True"
+        },
+        {
+          "D": "Ártico",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "7grS94lLJnM"
+    },
+    {
+      "pregunta": "¿En qué país se encuentra la Torre Eiffel?",
+      "Opciones": [
+        {
+          "A": "Italia",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "España",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "Francia",
+          "Iscorrect": "True"
+        },
+        {
+          "D": "Alemania",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "8yBChStQG9o"
+    },
+    {
+      "pregunta": "¿Cuál es el metal más ligero?",
+      "Opciones": [
+        {
+          "A": "Hierro",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Oro",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "Litio",
+          "Iscorrect": "True"
+        },
+        {
+          "D": "Plata",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "NYRRfPzTizk"
+    },
+    {
+      "pregunta": "¿Quién descubrió América?",
+      "Opciones": [
+        {
+          "A": "Magallanes",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Cristóbal Colón",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Napoleón",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Colón no existe",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "I36zXK-tE5I"
+    },
+    {
+      "pregunta": "¿Cuál es el idioma más hablado?",
+      "Opciones": [
+        {
+          "A": "Español",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Inglés",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "Mandarín",
+          "Iscorrect": "True"
+        },
+        {
+          "D": "Francés",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "XGVZp6yafMM"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "Opciones": [
+        {
+          "A": "Amazonas",
+          "Iscorrect": "True"
+        },
+        {
+          "B": "Nilo",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "Danubio",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Mississippi",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "0YkecRsDJkg"
+    },
+    {
+      "pregunta": "¿Cuántos lados tiene un hexágono?",
+      "Opciones": [
+        {
+          "A": "5",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "6",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "7",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "8",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "TJAF2BMU_u4"
+    },
+    {
+      "pregunta": "¿Qué gas respiramos?",
+      "Opciones": [
+        {
+          "A": "CO2",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Oxígeno",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Hidrógeno",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Helio",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "rH_UW2TZef4"
+    },
+    {
+      "pregunta": "¿Cuál es el animal terrestre más grande?",
+      "Opciones": [
+        {
+          "A": "León",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Elefante",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Ballena",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Jirafa",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "UF-quqzCCf8"
+    },
+    {
+      "pregunta": "¿Quién formuló la teoría de la relatividad?",
+      "Opciones": [
+        {
+          "A": "Newton",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Einstein",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Tesla",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Darwin",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "6RO_unw2vpQ"
+    },
+    {
+      "pregunta": "¿Cuál es el país más grande del mundo?",
+      "Opciones": [
+        {
+          "A": "China",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Estados Unidos",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "Rusia",
+          "Iscorrect": "True"
+        },
+        {
+          "D": "Canadá",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "eQPzRDHnzi8"
+    },
+    {
+      "pregunta": "¿Qué instrumento mide la temperatura?",
+      "Opciones": [
+        {
+          "A": "Barómetro",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Termómetro",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Higrómetro",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Altímetro",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "KVgBnrh7keQ"
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo químico del agua?",
+      "Opciones": [
+        {
+          "A": "O2",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "H2O",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "CO2",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "HO",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "a7XXu5olB-c"
+    },
+    {
+      "pregunta": "¿Qué planeta está más cerca del sol?",
+      "Opciones": [
+        {
+          "A": "Venus",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Mercurio",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Marte",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Júpiter",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "rzR8tGmVBX8"
+    },
+    {
+      "pregunta": "¿Quién escribió Romeo y Julieta?",
+      "Opciones": [
+        {
+          "A": "Shakespeare",
+          "Iscorrect": "True"
+        },
+        {
+          "B": "Cervantes",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "Neruda",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Borges",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "m_3qy9ooFgw"
+    },
+    {
+      "pregunta": "¿Cuántos días tiene un año?",
+      "Opciones": [
+        {
+          "A": "364",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "365",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "366",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "360",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "NVSluhdrl2U"
+    },
+    {
+      "pregunta": "¿Qué continente es el más frío?",
+      "Opciones": [
+        {
+          "A": "Europa",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Asia",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "Antártida",
+          "Iscorrect": "True"
+        },
+        {
+          "D": "América",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "3VKgRQaBI44"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda de Japón?",
+      "Opciones": [
+        {
+          "A": "Won",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Yen",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Peso",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Euro",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "xZkxVE_4nUk"
+    },
+    {
+      "pregunta": "¿Qué órgano bombea la sangre?",
+      "Opciones": [
+        {
+          "A": "Pulmón",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Hígado",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "Corazón",
+          "Iscorrect": "True"
+        },
+        {
+          "D": "Riñón",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "ShFGxFpLM8M"
+    },
+    {
+      "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+      "Opciones": [
+        {
+          "A": "Español",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Portugués",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Inglés",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Francés",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "wcm_TFga3ZM"
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+      "Opciones": [
+        {
+          "A": "Venus",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Marte",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Júpiter",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Saturno",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "qNxSwkQby8s"
+    },
+    {
+      "pregunta": "¿Cuántas horas tiene un día?",
+      "Opciones": [
+        {
+          "A": "12",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "24",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "48",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "36",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "HbW45GUjFA0"
+    },
+    {
+      "pregunta": "¿Cuál es el país con más población?",
+      "Opciones": [
+        {
+          "A": "India",
+          "Iscorrect": "True"
+        },
+        {
+          "B": "China",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "USA",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Brasil",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "ciXJQL7g2wQ"
+    },
+    {
+      "pregunta": "¿Qué vitamina produce el sol?",
+      "Opciones": [
+        {
+          "A": "A",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "B",
+          "Iscorrect": "False"
+        },
+        {
+          "C": "C",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "D",
+          "Iscorrect": "True"
+        }
+      ],
+      "id": "h_oS0ci9mjw"
+    },
+    {
+      "pregunta": "¿Cuál es el animal más rápido?",
+      "Opciones": [
+        {
+          "A": "León",
+          "Iscorrect": "False"
+        },
+        {
+          "B": "Guepardo",
+          "Iscorrect": "True"
+        },
+        {
+          "C": "Tigre",
+          "Iscorrect": "False"
+        },
+        {
+          "D": "Caballo",
+          "Iscorrect": "False"
+        }
+      ],
+      "id": "25e9SruAmow"
+    }
+  ],
+  "juegos": [
+    {
+      "aciertos": 2,
+      "Puntaje": 40,
+      "id": "pcDGaIdoBi0"
+    },
+    {
+      "aciertos": 0,
+      "Puntaje": 0,
+      "id": "gESjF8pgY2o"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

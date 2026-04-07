@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    height: 200vh;
+    background: linear-gradient(90deg, red, yellow, lime, cyan, magenta);
+    font-family: Comic Sans MS;
+    color: blue;
+}
+
+textarea {
+    width: 200px;
+    height: 50px;
+    background: black;
+    color: lime;
+    border: 4px dotted red;
+    position: absolute;
+}
+
+input[type="number"] {
+    width: 60px;
+    background: black;
+    color: yellow;
+    border: 5px dashed purple;
+    position: absolute;
+}
+
+button {
+    position: absolute;
+    background: purple;
+    color: orange;
+    border: 5px dotted cyan;
+    padding: 10px;
+}
+
+label {
+    position: absolute;
+    color: yellow;
+    font-size: 18px;
+}
+
+#lista div {
+    background: yellow;
+    color: red;
+    margin: 20px;
+    padding: 10px;
+    transform: rotate(-2deg);
+    font-size: 18px;
+}

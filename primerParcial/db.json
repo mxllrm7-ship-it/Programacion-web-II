@@ -1,0 +1,15 @@
+{
+  "tareas": [
+    {
+      "nombre": "sddfasdfasdfasdfasdf",
+      "tachado": true,
+      "id": "B_QDuqxtISQ"
+    },
+    {
+      "nombre": "fasdfasdfasdfasdf",
+      "tachado": false,
+      "id": "2wAo_mvynw4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

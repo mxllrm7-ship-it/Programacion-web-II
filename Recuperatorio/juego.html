@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Juego Preguntas</title>
+    <link rel="stylesheet" href="./juego.css">
+</head>
+<body>
+
+<div class="container">
+    <div class="nav">
+        <button onclick="irJuego()">Jugar</button>
+        <button onclick="irCrud()">Ver Preguntas</button>
+    </div>
+
+    <h2>Juego de Preguntas</h2>
+
+    <div id="info">
+        <span id="timer">30</span>
+        <span id="score">Puntaje: 0</span>
+    </div>
+
+    <form id="quizForm">
+        <h3 id="pregunta"></h3>
+        <div class="opciones" id="opciones"></div>
+        <button type="submit">Responder</button>
+    </form>
+
+    <div id="final"></div>
+</div>
+
+<script>
+function irJuego() {
+    window.location.href = "juego.html";
+}
+function irCrud() {
+    window.location.href = "index.html";
+}
+</script>
+
+<script src="./juego.js"></script>
+</body>
+</html>
