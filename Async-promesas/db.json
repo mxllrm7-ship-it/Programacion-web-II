@@ -1,0 +1,18 @@
+{
+  "perfil": [
+    {
+      "nombre": "fasdfasdf",
+      "email": "f@gmail.com",
+      "id": "NTIAaYi9TH0"
+    }
+  ],
+  "productos": [
+    {
+      "nombre": "fasdfasdfasdf",
+      "precio": "234",
+      "descripcion": "fasdfasdfasdfsadfasdfas",
+      "id": "bbdyBfPTPzA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
